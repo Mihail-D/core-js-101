@@ -36,3 +36,7 @@ node_modules
 # Editors crap
 .vscode
 .idea
+.eslintrc.js
+package-lock.json
+package.json
+
